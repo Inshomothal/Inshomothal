@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Inshomothal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Inshomothal/Inshomothal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Inshomothal, an avid gamer and aspiring game developer.
+- 👀 I’m passionate about blending gaming and programming to create immersive experiences.
+- 🌱 Currently refining my skills in app development, with over 2 years of hobbyist experience in JavaScript.
+- 💻 Less than a year of dedicated focus on blockchain technology, aspiring to deepen expertise in the emerging Web3 space.
+- 💞️ Excited about collaborations merging gaming with innovative tech.
+- 📫 Let's connect! Reach me [here](https://inshomothal.github.io/inshomohal.gitub.io/) and explore more about my projects below.
